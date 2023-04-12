@@ -31,7 +31,7 @@ const robots = [
   },
   {
     id: 6,
-    name: "Mrs. Dennis Schulist",
+    name: "Mrs. Denny Schulit",
     username: "Leopoldo_Corkery",
     email: "Karley_Dach@jasper.info",
   },
